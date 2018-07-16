@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\FlashMap.o
+./release\data.o
+./release\myserialport.o
+./release\qjoystick.o
+./release\widget.o
+./release\qfi_HSI.o
+./release\MyItem.o
+./release\qrc_img.o
+./release\moc_FlashMap.o
+./release\moc_myserialport.o
+./release\moc_qjoystick.o
+./release\moc_widget.o
+./release\moc_qfi_HSI.o
+./release\moc_MyItem.o
+);

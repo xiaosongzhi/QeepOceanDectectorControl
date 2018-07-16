@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\FlashMap.o
+./debug\data.o
+./debug\myserialport.o
+./debug\qjoystick.o
+./debug\widget.o
+./debug\qfi_HSI.o
+./debug\MyItem.o
+./debug\qrc_img.o
+./debug\moc_FlashMap.o
+./debug\moc_myserialport.o
+./debug\moc_qjoystick.o
+./debug\moc_widget.o
+./debug\moc_qfi_HSI.o
+./debug\moc_MyItem.o
+);

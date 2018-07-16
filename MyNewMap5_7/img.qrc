@@ -1,0 +1,62 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/22857_3.png</file>
+        <file>image/大蝠鲼界面背景_01.png</file>
+        <file>image/大蝠鲼界面背景_02.png</file>
+        <file>image/大蝠鲼界面背景_04.png</file>
+        <file>image/大蝠鲼界面背景_05.png</file>
+        <file>image/大蝠鲼界面背景_06.png</file>
+        <file>image/大蝠鲼界面背景_07.png</file>
+        <file>image/电池.png</file>
+        <file>image/电压指示.png</file>
+        <file>image/翻滚角.png</file>
+        <file>image/蝠鲼-偏航角.png</file>
+        <file>image/俯仰，水深.png</file>
+        <file>image/规划路径按下.png</file>
+        <file>image/规划路径-悬浮.png</file>
+        <file>image/规划路径-正常.png</file>
+        <file>image/界面UI.jpg</file>
+        <file>image/清楚轨迹-按下.png</file>
+        <file>image/清楚轨迹-悬浮.png</file>
+        <file>image/清楚轨迹-正常.png</file>
+        <file>image/设备配置-按下.png</file>
+        <file>image/设备配置-悬浮.png</file>
+        <file>image/设备配置-正常.png</file>
+        <file>image/射频关.png</file>
+        <file>image/射频开.png</file>
+        <file>image/水声关.png</file>
+        <file>image/水声开.png</file>
+        <file>image/卫星关.png</file>
+        <file>image/卫星开.png</file>
+        <file>image/温度数据框.png</file>
+        <file>image/显示轨迹-按下.png</file>
+        <file>image/显示轨迹-悬浮.png</file>
+        <file>image/显示轨迹-正常.png</file>
+        <file>image/盐度湿度.png</file>
+        <file>image/隐藏轨迹-按下.png</file>
+        <file>image/隐藏轨迹-悬浮.png</file>
+        <file>image/隐藏轨迹-正常.png</file>
+        <file>image/重新发送轨迹-按下.png</file>
+        <file>image/重新发送轨迹-悬浮.png</file>
+        <file>image/重新发送轨迹-正常.png</file>
+        <file>image/界面UI切图_01.png</file>
+        <file>image/界面UI切图_03.png</file>
+        <file>image/界面UI切图_08.png</file>
+        <file>image/文字框背景 (1).png</file>
+        <file>image/文字框背景 (2).png</file>
+        <file>image/文字框背景 (3).png</file>
+        <file>image/文字框背景 (4).png</file>
+        <file>image/透明.png</file>
+        <file>image/按下.png</file>
+        <file>image/悬浮.png</file>
+        <file>image/正常.png</file>
+        <file>image/删除路径-按下.png</file>
+        <file>image/删除路径-悬浮.png</file>
+        <file>image/删除路径--正常.png</file>
+        <file>image/射频开.gif</file>
+        <file>image/水声开.gif</file>
+        <file>image/卫星开.gif</file>
+        <file>image/水深、高度.png</file>
+        <file>image/fufen.png</file>
+    </qresource>
+</RCC>
